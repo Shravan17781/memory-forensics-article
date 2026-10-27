@@ -6,12 +6,12 @@ This folder is ready to become a GitHub repository. Below is the exact structure
 
 ```
 memory-forensics-article/
-├── README.md          <- the article (renders on the repo page)
-├── LICENSE            <- MIT licence
-├── SETUP-GITHUB.md    <- this file (optional, delete after setup)
+├── README.md          
+├── LICENSE            
+├── SETUP-GITHUB.md    
 └── docs/
-    ├── _config.yml    <- GitHub Pages settings (theme, title)
-    └── index.md       <- the article as a website homepage
+    ├── _config.yml    
+    └── index.md      
 ```
 
 The `README.md` and `docs/index.md` hold the same article. The first is what visitors read on the repository page; the second is what GitHub Pages turns into a live web page.
