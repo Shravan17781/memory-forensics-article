@@ -77,4 +77,4 @@ Fileless malware exploits a blind spot in traditional forensics, the belief that
 
 Written as part of a self-learning assessment on Advanced Digital Forensics. Feedback, corrections and suggested reading are welcome — please open an issue or a pull request.
 
-*Author: Durgesh Sheshnath Tiwari · October 2026*
+*Author: Shravan Pal · October 2026*
